@@ -1,6 +1,6 @@
+package model;
 
 import etl.LectorCsv;
-import model.Estudiante;
 import Estructuras.ListaEnlazada;
 import java.util.Scanner;
 
